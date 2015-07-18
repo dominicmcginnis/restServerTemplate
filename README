@@ -1,0 +1,7 @@
+This is a template for creating a Jetty based RESTful service web server.   To use the template simply clone the project as a starting point and then alter filenames and etc... accordingly.  Ensure that you also rename the items in the pom.xml to match your needs as this template uses maven.
+
+The maven jetty commands can be found here: http://www.eclipse.org/jetty/documentation/current/jetty-maven-plugin.html 
+
+Why did I create this?  
+Because sometimes we don't want to use a heavy IDE like eclipse to work, but still want to be able to quickly have a template for doing projects/tests/challenges/etc...
+
